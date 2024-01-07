@@ -66,4 +66,32 @@ c3.display()
 
 This will print the real and imaginary parts of the result of the arithmetic operation.
 
-Feel free to modify and integrate this module into your projects as needed.
+## Contributions
+
+Contributions to this module are welcome! If you have any improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Let's collaborate to make this complex number module even better.
+
+## Clone this Repository
+
+You can clone this repository to access the code and contribute:
+
+```bash
+git clone <repository_clone_link>
+```
+
+Replace `<repository_clone_link>` with the actual clone link of this repository.
+
+## Using in PyCharm
+
+To use this module in PyCharm, follow these steps:
+
+1. Open PyCharm and create a new project or open an existing one.
+
+2. Copy the link to clone this repository.
+
+3. In PyCharm, go to "VCS" in the menu bar and select "Get from Version Control."
+
+4. Paste the repository clone link and click "Clone."
+
+5. Once the project is cloned, you can use the `module` in your Python scripts by importing it as shown in the Usage section. PyCharm will automatically recognize and work with the module.
+
+Now you can enjoy using and contributing to the Complex Number Module in PyCharm!
