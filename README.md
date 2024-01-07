@@ -75,7 +75,7 @@ Contributions to this module are welcome! If you have any improvements, bug fixe
 You can clone this repository to access the code and contribute:
 
 ```bash
-git clone <repository_clone_link>
+git clone git@github.com:Sakib-Dalal/Operation_Overloading.git
 ```
 
 Replace `<repository_clone_link>` with the actual clone link of this repository.
