@@ -78,7 +78,6 @@ You can clone this repository to access the code and contribute:
 git clone git@github.com:Sakib-Dalal/Operation_Overloading.git
 ```
 
-Replace `<repository_clone_link>` with the actual clone link of this repository.
 
 ## Using in PyCharm
 
